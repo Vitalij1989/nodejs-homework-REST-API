@@ -1,0 +1,9 @@
+id= 644d6da5ea45ae63e2b2e7aa
+rasword = 6RwzXYvsLGUzLA9b
+paswordMB = oDlgXlK8euAMSFNB
+raswordmbcontacts = 5zgZnpH8Ge2o6QY3
+som=MMRQEy9rUHSPsZpS
+
+
+mongodb+srv://som:MMRQEy9rUHSPsZpS@cluster0.mydahg8.mongodb.net/test
+DB_HOST=mongodb+srv://som:MMRQEy9rUHSPsZpS@krabaton.5mlpr.gcp.mongodb.net/db-contacts?retryWrites=true&w=majority
